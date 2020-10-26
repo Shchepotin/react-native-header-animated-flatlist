@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AnimationApp",
+    "name": "Header FlatList animation",
     "slug": "AnimationApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,6 +22,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "Simple header animation for FlatList",
+    "githubUrl": "https://github.com/Shchepotin/react-native-header-animated-flatlist"
   }
 }
